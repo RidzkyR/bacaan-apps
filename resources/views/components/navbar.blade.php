@@ -23,7 +23,7 @@
 
                     <li class="flex items-center">
                         <a href="{{ route('logout') }}"
-                            class="block px-0 py-2 text-sm font-semibold transition-all ease-nav-brand text-slate-500 hover:text-red-500 hover:shadow-none active:bg-slate-700 active:text-red-500 active:hover:bg-transparent active:hover:text-red-500 active:hover:shadow-none"
+                            class="block px-0 py-2 text-sm font-semibold transition-all ease-nav-brand text-red-500 hover:text-red-500 hover:shadow-none active:bg-slate-700 active:text-red-500 active:hover:bg-transparent active:hover:text-red-500 active:hover:shadow-none"
                             onclick="event.preventDefault(); 
                             document.getElementById('logout-form').submit();">
                             <i class="fa-solid fa-right-from-bracket"></i>

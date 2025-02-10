@@ -88,13 +88,13 @@
                 <hr class="h-px mt-0 bg-transparent bg-gradient-to-r from-transparent via-black/40 to-transparent" />
                 {{-- Profile Menu --}}
                 <li class="mt-0.5 w-full">
-                    <a class="py-2.7 text-sm ease-nav-brand my-0 mx-4 flex items-center whitespace-nowrap px-4 transition-all hover:scale-102 hover:shadow-soft-xs active:hover:bg-text-700 leading-pro ease-soft-in tracking-tight-soft"
-                        href={{ '/catalog' }}>
+                    <a href={{ 'profile' }}
+                        class="py-2.7 text-sm ease-nav-brand my-0 mx-4 flex items-center whitespace-nowrap px-4 transition-all hover:scale-102 hover:shadow-soft-xs active:hover:bg-text-700 leading-pro ease-soft-in tracking-tight-soft">
                         <div
                             class="bg-gradient-to-tl from-blue-600 to-cyan-400 shadow-soft-2xl mr-2 flex h-8 w-8 items-center justify-center rounded-lg bg-white bg-center stroke-0 text-center xl:p-2.5">
                             <i class="fa-regular fa-id-card text-sm text-white"></i>
                         </div>
-                        <span class="ml-1 duration-300 opacity-100 pointer-events-none ease-soft">Profile</span>
+                        <span class="ml-1 duration-300 opacity-100 pointer-events-none ease-soft"> {{ __('Profile') }}</span>
                     </a>
                 </li>
                 {{-- Denda Menu --}}
