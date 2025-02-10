@@ -23,7 +23,7 @@
                                 </div>
                                 <div class="px-3 text-right basis-1/3">
                                     <div
-                                        class="inline-block w-12 h-12 text-center rounded-lg bg-gradient-to-tl from-blue-600 to-cyan-400">
+                                        class="inline-block w-12 h-12 text-center rounded-lg bg-gradient-to-tl from-purple-700 to-pink-500">
                                         <i class="fa-solid fa-user text-xl relative top-3 text-white"></i>
                                     </div>
                                 </div>
@@ -50,7 +50,7 @@
                                 </div>
                                 <div class="px-3 text-right basis-1/3">
                                     <div
-                                        class="inline-block w-12 h-12 text-center rounded-lg bg-gradient-to-tl from-blue-600 to-cyan-400">
+                                        class="inline-block w-12 h-12 text-center rounded-lg bg-gradient-to-tl from-purple-700 to-pink-500">
                                         <i class="fa-solid fa-book text-xl relative top-3 text-white"></i>
                                     </div>
                                 </div>
@@ -77,7 +77,7 @@
                                 </div>
                                 <div class="px-3 text-right basis-1/3">
                                     <div
-                                        class="inline-block w-12 h-12 text-center rounded-lg bg-gradient-to-tl from-blue-600 to-cyan-400">
+                                        class="inline-block w-12 h-12 text-center rounded-lg bg-gradient-to-tl from-purple-700 to-pink-500">
                                         <i class="fa-solid fa-right-left text-xl relative top-3 text-white"></i>
                                     </div>
                                 </div>
